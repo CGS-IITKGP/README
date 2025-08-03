@@ -9,7 +9,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![Wiki][wiki-shield]][wiki-url]
 
 </div>
 
@@ -17,8 +16,8 @@
 <br />
 <!-- UPDATE -->
 <div align="center">
-  <a href="https://github.com/metakgp/PROJECT_NAME">
-     <img width="140" alt="image" src="https://raw.githubusercontent.com/metakgp/design/main/logos/black-large.jpg">
+  <a href="https://github.com/cgs-iitkgp/PROJECT_NAME">
+     <img width="140" alt="image" src="">
   </a>
 
   <h3 align="center">PROJECT_NAME</h3>
@@ -26,10 +25,6 @@
   <p align="center">
   <!-- UPDATE -->
     <i>Project one liner slogan goes here</i>
-    <br />
-    <a href="https://UPDATE.metakgp.org">Website</a>
-    ·
-    <a href="https://github.com/proffapt/PROJECT_NAME/issues">Request Feature / Report Bug</a>
   </p>
 </div>
 
@@ -55,7 +50,7 @@
 ## About The Project
 <!-- UPDATE -->
 <div align="center">
-  <a href="https://github.com/metakgp/PROJECT_NAME">
+  <a href="https://github.com/cgs-iitkgp/PROJECT_NAME">
     <img width="80%" alt="image" src="https://user-images.githubusercontent.com/86282911/206632547-a3b34b47-e7ae-4186-a1e6-ecda7ddb38e6.png">
   </a>
 </div>
@@ -84,7 +79,7 @@ _Now that the environment has been set up and configured to properly compile and
 <!-- UPDATE -->
 1. Clone the repository
    ```sh
-   git clone https://github.com/metakgp/PROJECT_NAME.git
+   git clone https://github.com/cgs-iitkgp/PROJECT_NAME.git
    ```
 2. Make the script executable
    ```sh
@@ -105,36 +100,14 @@ _Now that the environment has been set up and configured to properly compile and
 Use this space to show useful examples of how this project can be used. Additional screenshots, code examples and demos work well in this space.
 
 <div align="center">
-  <a href="https://github.com/metakgp/PROJECT_NAME">
-    <img width="80%" alt="image" src="https://user-images.githubusercontent.com/86282911/206632640-40dc440e-5ef3-4893-be48-618f2bd85f37.png">
+  <a href="https://github.com/cgs-iitkgp/PROJECT_NAME">
+    <img width="80%" alt="image" src="">
   </a>
 </div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Contact
-
-<p>
-📫 Metakgp -
-<a href="https://slack.metakgp.org">
-  <img align="center" alt="Metakgp's slack invite" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/slack.svg" />
-</a>
-<a href="mailto:metakgp@gmail.com">
-  <img align="center" alt="Metakgp's email " width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />
-</a>
-<a href="https://www.facebook.com/metakgp">
-  <img align="center" alt="metakgp's Facebook" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg" />
-</a>
-<a href="https://www.linkedin.com/company/metakgp-org/">
-  <img align="center" alt="metakgp's LinkedIn" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
-</a>
-<a href="https://twitter.com/metakgp">
-  <img align="center" alt="metakgp's Twitter " width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/metakgp_/">
-  <img align="center" alt="metakgp's Instagram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" />
-</a>
-</p>
 
 ### Maintainer(s)
 
@@ -163,16 +136,13 @@ Honoring the original creator(s) and ideator(s) of this project.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/metakgp/PROJECT_NAME.svg?style=for-the-badge
-[contributors-url]: https://github.com/metakgp/PROJECT_NAME/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/metakgp/PROJECT_NAME.svg?style=for-the-badge
-[forks-url]: https://github.com/metakgp/PROJECT_NAME/network/members
-[stars-shield]: https://img.shields.io/github/stars/metakgp/PROJECT_NAME.svg?style=for-the-badge
-[stars-url]: https://github.com/metakgp/PROJECT_NAME/stargazers
-[issues-shield]: https://img.shields.io/github/issues/metakgp/PROJECT_NAME.svg?style=for-the-badge
-[issues-url]: https://github.com/metakgp/PROJECT_NAME/issues
-[license-shield]: https://img.shields.io/github/license/metakgp/PROJECT_NAME.svg?style=for-the-badge
-[license-url]: https://github.com/metakgp/PROJECT_NAME/blob/master/LICENSE
-[wiki-shield]: https://custom-icon-badges.demolab.com/badge/metakgp_wiki-grey?logo=metakgp_logo&style=for-the-badge
-[wiki-url]: https://wiki.metakgp.org
-[slack-url]: https://slack.metakgp.org
+[contributors-shield]: https://img.shields.io/github/contributors/cgs-iitkgp/PROJECT_NAME.svg?style=for-the-badge
+[contributors-url]: https://github.com/cgs-iitkgp/PROJECT_NAME/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/cgs-iitkgp/PROJECT_NAME.svg?style=for-the-badge
+[forks-url]: https://github.com/cgs-iitkgp/PROJECT_NAME/network/members
+[stars-shield]: https://img.shields.io/github/stars/cgs-iitkgp/PROJECT_NAME.svg?style=for-the-badge
+[stars-url]: https://github.com/cgs-iitkgp/PROJECT_NAME/stargazers
+[issues-shield]: https://img.shields.io/github/issues/cgs-iitkgp/PROJECT_NAME.svg?style=for-the-badge
+[issues-url]: https://github.com/cgs-iitkgp/PROJECT_NAME/issues
+[license-shield]: https://img.shields.io/github/license/cgs-iitkgp/PROJECT_NAME.svg?style=for-the-badge
+[license-url]: https://github.com/cgs-iitkgp/PROJECT_NAME/blob/master/LICENSE
